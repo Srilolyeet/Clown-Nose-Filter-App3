@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  }
+ 
+  p{
+    color: white;
+  }
+  b{
+    color: white
+  }
+  label{
+    color: white
+  }
